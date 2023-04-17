@@ -15,8 +15,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-            android:src="@tools:sample/avatars"
-            android:contentDescription="TODO" />
+
+             />
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
