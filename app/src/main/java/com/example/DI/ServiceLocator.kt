@@ -58,5 +58,6 @@ object ServiceLocator {
         val result = BooksDatabase.getDatabase(context)
         database = result
         return result
+
     }
 }
